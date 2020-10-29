@@ -104,6 +104,11 @@ We decided to do a three-cluster analysis for each state using high school gradu
   - American Indian/Alaska Native, Black/African American, Native Hawaiian/Pacific Islander
 
  <img width="918" alt="Screen Shot 2020-10-29 at 1 30 14 AM" src="https://user-images.githubusercontent.com/70858878/97529467-55c1ac00-1986-11eb-925f-bba911f1907b.png">
+ There is not a strong correlation between high school graduation rate and chronical abs rate.
+ <img width="423" alt="Screen Shot 2020-10-29 at 13 41 58" src="https://user-images.githubusercontent.com/70663111/97611423-8e946c00-19ec-11eb-9412-a213a68aafaa.png">
+ There is a mostly positive correlation between SAT mean scores and AP mean score.
+<img width="436" alt="Screen Shot 2020-10-29 at 13 42 05" src="https://user-images.githubusercontent.com/70663111/97611431-90f6c600-19ec-11eb-9fc3-201eea2f3c14.png">
+
 
 ### Florida
 - Cluster 1: Asian: high hs grad, high mean SAT, low chronic abs, high mean AP
